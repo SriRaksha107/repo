@@ -1,9 +1,9 @@
 {
   "name": "CD pipeline",
-  "existing_cluster_id": "your_cluster_id",
+  "existing_cluster_id": "0926-110645-tect3j44",
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
-    "notebook_path": "/Workspace/Users/your_username/your_notebook"
+    "notebook_path": "https://adb-4351284233138375.15.azuredatabricks.net/compute/clusters/0926-110645-tect3j44?o=4351284233138375"
   }
 }
